@@ -107,6 +107,11 @@ def win_move(board_to_check):
 		if check_winner(board_to_check) == 2:
 			board_to_check[x][y] = 0  # Reset the board after checking
 			return box
+		else :
+			board_to_check[x][y] = 1
+			if check_winner(board_to_check) == 1:
+				board_to_check[x][y] = 0
+				return box
 		board_to_check[x][y] = 0  # Reset the board after checking
 	return remaining_boxes[0] if remaining_boxes else None
 
