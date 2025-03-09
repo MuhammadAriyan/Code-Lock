@@ -1,5 +1,4 @@
 import streamlit as st
-from string import ascii_letters as char
 
 st.set_page_config(page_title="BinaryDecoder", page_icon="💤", layout="centered")
 
