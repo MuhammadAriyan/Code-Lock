@@ -1,14 +1,19 @@
-# 🌙 Code Lock: 30 Days of Python Mastery - Ramadan Challenge
+# 🌙 Code Lock: 6
+Days of Python Mastery - Ramadan Challenge
 
-Welcome to **Code Lock: 30 Days of Python Mastery - Ramadan Challenge!** This is a dedicated challenge where I spend each night of Ramadan learning Python, building projects, and sharpening my coding skills. By the end of Ramadan, I aim to have completed **30 mini-projects** and significantly leveled up my Python game. 💻🐍
+Welcome to **Code Lock: 6
+Days of Python Mastery - Ramadan Challenge!** This is a dedicated challenge where I spend each night of Ramadan learning Python, building projects, and sharpening my coding skills. By the end of Ramadan, I aim to have completed **6
+mini-projects** and significantly leveled up my Python game. 💻🐍
 
 ---
 
 ## 📅 Challenge Structure
-- 📆 **Duration:** 30 Days (Throughout Ramadan)
+- 📆 **Duration:** 6
+Days (Throughout Ramadan)
 - 🎯 **Daily Goal:** Learn Python and complete a coding project each day
 - 📚 **Topics Covered:** Python fundamentals, algorithms, data structures, APIs, automation, and real-world applications
-- 🏆 **Final Outcome:** A collection of 30 mini-projects showcasing my learning journey
+- 🏆 **Final Outcome:** A collection of 6
+mini-projects showcasing my learning journey
 
 ---
 
@@ -32,7 +37,8 @@ Welcome to **Code Lock: 30 Days of Python Mastery - Ramadan Challenge!** This is
 ## 🎯 End Goal
 By the end of Ramadan, I will have:
 ✅ Mastered Python fundamentals and beyond 🚀  
-✅ Built **30 diverse Python projects** 💻  
+✅ Built **6
+diverse Python projects** 💻  
 ✅ Developed ironclad coding consistency 📅  
 ✅ Created a **strong portfolio of Python projects** 🔥  
 ✅ Strengthened my problem-solving skills 🧠  
