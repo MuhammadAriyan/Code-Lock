@@ -5,7 +5,7 @@ Welcome to **Code Lock: 6
 Days of Python Mastery - Ramadan Challenge!** This is a dedicated challenge where I spend each night of Ramadan learning Python, building projects, and sharpening my coding skills. By the end of Ramadan, I aim to have completed **6
 mini-projects** and significantly leveled up my Python game. 💻🐍
 
----
+--- 
 
 ## 📅 Challenge Structure
 - 📆 **Duration:** 6
